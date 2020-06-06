@@ -1,2 +1,2 @@
-# telegraf-bot
+# official-bot
 Official Grammunity Bot, built with Telegraf
